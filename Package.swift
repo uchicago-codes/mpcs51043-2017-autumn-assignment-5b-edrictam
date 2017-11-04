@@ -1,5 +1,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "MorseCoder"
+    name: "MorseCoder",
+    targets: [.target(name: "MorseCoder")]
 )
