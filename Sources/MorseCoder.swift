@@ -1,7 +1,7 @@
 import Foundation
 
 // define a struct that handles the conversion during initialization
-public struct MorseCoder {
+public struct MC {
     
     public var standard: String // alphanumeric
     public var code: String     // morse code
